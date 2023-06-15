@@ -18,9 +18,10 @@ You can download the [apk](/Demo/game/TheHungryGame.apk) in the folder to your a
 Monkey 巴豆夭
 
 ### 說明:
-於 2018 年有上架到 Google Play Store。
+是一款由 **Unity 2017.1.1f1** 做成的手機遊戲。
+於 2018 年有**上架到 Google Play Store**。
 因為 Google Play 的審查機制，所以遊戲已經於平台上下架了，
-若有興趣想玩玩看，可以於資料夾中下載 apk 檔案遊玩!
+若有興趣想玩玩看，可以於資料夾中下載 [apk](/Demo/game/TheHungryGame.apk) 檔案遊玩!
 
 ### 主題:
 在樹林中有一隻小猴子很愛吃香蕉，有一天，他覺得自己已經吃了20年的香蕉了，突然想要換換口味，於是他跑到了神樹前，向神樹祈禱新的水果，掌管神樹的神不想輕易讓小猴子可以取得他想吃的水果，於是設計了一連串的考驗，要看小猴子是否真心想要吃其他水果。 
@@ -53,3 +54,10 @@ Monkey 巴豆夭
 
 ### Google Play Store 下載量: 
 ![](/Demo/picture/download.jpg)
+
+### 素材來源:
+- 首頁背景: https://www.pexels.com/photo/nature-sky-sunset-the-mountains-66997/
+- 首頁猴子: https://pixabay.com/en/monkey-three-monkeys-can-t-hear-2803416/
+- 規則猴子: https://pixabay.com/en/monkey-cartoon-character-cute-ape-309461/
+- 規則香蕉: https://pixabay.com/en/banana-education-fruit-school-1300390/
+- 停止按鈕: https://pixabay.com/en/button-pause-stop-icon-symbol-309040/
